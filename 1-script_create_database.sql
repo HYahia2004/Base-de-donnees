@@ -1,3 +1,3 @@
--- Création du schéma---
-DROP SCHEMA IF EXISTS "Tabib";
-CREATE SCHEMA "Tabib";
+-- Création de la base de donnés---
+DROP DATABASE IF EXISTS "DZ-Tabib";
+CREATE DATABASE "DZ-Tabib";
